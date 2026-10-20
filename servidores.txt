@@ -2,3 +2,4 @@ SERVIDORES DE BAHIANET
 
 -Servidor web
 -Servidor de copias de seguridad
+-Servidor de monitorizacion
