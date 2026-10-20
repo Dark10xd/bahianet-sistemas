@@ -1,7 +1,4 @@
-SERVIDORES DE BAHIANET 
+SERVIDORES DE BAHIANET
 
 -Servidor web
-
 -Servidor de copias de seguridad
-
-DarioDiazAzahares
