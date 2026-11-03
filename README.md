@@ -11,4 +11,5 @@ Archivos principales
 Versión
 
 v1.0
-
+## Control de versiones 
+Este proyecto utiliza Git y Github para gestionar sus versiones
